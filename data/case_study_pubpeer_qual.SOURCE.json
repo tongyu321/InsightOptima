@@ -1,0 +1,15 @@
+{
+  "title": "Qualitative-coded answers \u2014 \"PubPeer is okay, but \u2026\": researchers' perceptions of post-publication reviews",
+  "strand": "qualitative",
+  "mixed_methods_pair": "case_study_drug_reviews.csv (quantitative strand)",
+  "domain": "research_integrity / researcher_perceptions",
+  "original_publisher": "Zenodo",
+  "doi": "https://doi.org/10.5281/zenodo.20413424",
+  "zenodo_url": "https://zenodo.org/records/20413424",
+  "download_url": "https://zenodo.org/api/records/20413424/files/Qualitative-coded-answers.csv/content",
+  "coding_scheme_url": "https://zenodo.org/api/records/20413424/files/Coding%20Scheme.csv/content",
+  "license": "CC BY 4.0 \u2014 cite Hepkema & Bordignon",
+  "citation": "Hepkema, Wytske, & Bordignon, Frederique. (2026). Data for \"\\\"PubPeer is okay, but ...\\\": researchers' perceptions of post-publication reviews\" [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20413424",
+  "notes": "Open-ended survey verbatims with published thematic codes (Coding Scheme.csv). InsightOptima re-clusters the text for demo; author codes are retained in author_codes for comparison.",
+  "subset_rows": 1115
+}

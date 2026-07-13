@@ -1,0 +1,125 @@
+{
+  "id": "20260711_201421_v2",
+  "created_at": "2026-07-11T20:14:21.482093+00:00",
+  "source_label": "v2",
+  "kpis": {
+    "total_reviews": 2000,
+    "negative_reviews": 261,
+    "negative_pct": 13.1,
+    "avg_rage": 86.7,
+    "unique_topics": 12
+  },
+  "credibility": {
+    "total_reviews": 2000,
+    "negative_reviews": 261,
+    "confidence": 90,
+    "grade": "A",
+    "warnings": [
+      "Lifecycle coding is skewed (90.1% in one stage) — keyword heuristics may be weak for this corpus."
+    ],
+    "metrics": {
+      "uncategorized_negative_pct": 0.0,
+      "uncategorized_negative_count": 0,
+      "short_text_pct": 0.0,
+      "top_topic": "Sour Cream",
+      "top_topic_share_pct": 13.4,
+      "unique_negative_topics": 12,
+      "unknown_language_pct": 0.0,
+      "lifecycle_stage_dominance_pct": 90.1,
+      "topic_method": "unknown",
+      "topics_merged": 0,
+      "topics_before_merge": 19,
+      "topics_after_merge": 19,
+      "retention_estimates": "heuristic"
+    }
+  },
+  "topic_counts": {
+    "Sour Cream": 35,
+    "Mango Flavor": 33,
+    "Pop Chips": 30,
+    "Poor Packaging": 29,
+    "Real Tea": 27,
+    "Stale Greasy": 26,
+    "Dried Fruit": 21,
+    "Deceptive Packaging": 20,
+    "Horrible Beans": 13,
+    "Turbinado Sugar": 10,
+    "Cookie Mixes": 9,
+    "Bags Better": 8
+  },
+  "roadmap": [
+    {
+      "priority": "P0",
+      "topic": "Deceptive Packaging",
+      "retention_lift": 11.1,
+      "estimate_type": "behavior-calibrated"
+    },
+    {
+      "priority": "P0",
+      "topic": "Dried Fruit",
+      "retention_lift": 8.4,
+      "estimate_type": "heuristic"
+    },
+    {
+      "priority": "P0",
+      "topic": "Cookie Mixes",
+      "retention_lift": 6.3,
+      "estimate_type": "behavior-calibrated"
+    },
+    {
+      "priority": "P1",
+      "topic": "Pop Chips",
+      "retention_lift": 8.0,
+      "estimate_type": "behavior-calibrated"
+    },
+    {
+      "priority": "P1",
+      "topic": "Sour Cream",
+      "retention_lift": 6.7,
+      "estimate_type": "heuristic"
+    },
+    {
+      "priority": "P1",
+      "topic": "Mango Flavor",
+      "retention_lift": 6.0,
+      "estimate_type": "heuristic"
+    },
+    {
+      "priority": "P2",
+      "topic": "Stale Greasy",
+      "retention_lift": 9.3,
+      "estimate_type": "behavior-calibrated"
+    },
+    {
+      "priority": "P2",
+      "topic": "Poor Packaging",
+      "retention_lift": 7.7,
+      "estimate_type": "behavior-calibrated"
+    },
+    {
+      "priority": "P2",
+      "topic": "Real Tea",
+      "retention_lift": 4.2,
+      "estimate_type": "behavior-calibrated"
+    },
+    {
+      "priority": "P2",
+      "topic": "Horrible Beans",
+      "retention_lift": 1.5,
+      "estimate_type": "heuristic"
+    },
+    {
+      "priority": "P2",
+      "topic": "Turbinado Sugar",
+      "retention_lift": 1.2,
+      "estimate_type": "heuristic"
+    },
+    {
+      "priority": "P2",
+      "topic": "Bags Better",
+      "retention_lift": 1.1,
+      "estimate_type": "heuristic"
+    }
+  ],
+  "topic_method": "bertopic"
+}

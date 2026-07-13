@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# Streamlit / secrets
+.streamlit/secrets.toml
+
+# Local analysis caches & user projects
+data/projects/
+*.parquet
+.cache/
+__HF_CACHE__/
+.huggingface/
+*.bin
+*.pt
+*.onnx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.tmp
+_git_check.txt
+_cv_extract.txt

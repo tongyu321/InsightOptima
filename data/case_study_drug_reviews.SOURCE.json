@@ -1,0 +1,14 @@
+{
+  "title": "Drug Review Dataset (Drugs.com)",
+  "domain": "public_health",
+  "original_publisher": "UCI Machine Learning Repository",
+  "doi": "https://doi.org/10.24432/C5SK5S",
+  "uci_url": "https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com",
+  "download_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/00462/drugsCom_raw.zip",
+  "content_origin": "https://www.drugs.com/ (patient reviews collected for research)",
+  "license": "CC BY 4.0 \u2014 cite Kallumadi & Gr\u00e4\u00dfer (2018)",
+  "citation": "Kallumadi, Surya and Gr\u00e4\u00dfer, Felix. (2018). Drug Review Dataset (Drugs.com). UCI Machine Learning Repository. https://doi.org/10.24432/C5SK5S",
+  "subset_rows": 1500,
+  "subset_seed": 42,
+  "notes": "This file is a reproducible random subset for InsightOptima demos. Full corpus remains available from UCI."
+}
